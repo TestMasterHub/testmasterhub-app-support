@@ -1,6 +1,6 @@
 # 🧪 TestmasterHub – App Support
 
-Welcome to the official support repository for **TestmasterHub**, a powerful API testing automation suite designed for Windows using **Electron.js** + **React.js**. This repo is dedicated to issue tracking, feedback, and feature suggestions for the desktop app.
+Welcome to the official support repository for **TestmasterHub**, a powerful API testing automation suite designed for Windows. This repo is dedicated to issue tracking, feedback, and feature suggestions for the desktop app.
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to the official support repository for **TestmasterHub**, a powerful API
 
 If you're experiencing any problems with the TestmasterHub app:
 
-1. Open a [new issue](https://github.com/your-org/testmasterhub-support/issues/new).
+1. Open a [new issue](https://github.com/TestMasterHub/testmasterhub-app-support/issues).
 2. Provide clear steps to reproduce.
 3. Include screenshots or logs if possible.
 
